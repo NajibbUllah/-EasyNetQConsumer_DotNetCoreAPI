@@ -1,6 +1,6 @@
-# -EasyNetQConsumer_DotNetCoreAPI
+# EasyNetQ Consumer (.NetCore 6 web API)
 
 
-Publisher API link
+EasyNetQ Publisher API can be found here
 
 https://github.com/NajibbUllah/EasyNetQPublisher_DotNetCoreAPI
